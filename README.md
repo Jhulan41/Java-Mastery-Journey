@@ -221,7 +221,7 @@ This project is licensed under the MIT License - see the <LICENSE> file for deta
 
 *Building Java expertise one day at a time*
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/java-mastery-journey?style=social)](https://github.com/yourusername/java-mastery-journey)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/Jhulan41)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/java-mastery-journey?style=social)](https://github.com/Jhulan41/Java_Concepts_Practice)
 
 </div>
