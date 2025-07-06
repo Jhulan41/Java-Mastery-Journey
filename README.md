@@ -98,7 +98,7 @@ This repository chronicles my systematic approach to mastering Java, from basic 
 - ✅ Comprehensive documentation with explanations
 - ✅ Unit tests for critical functionality
 - ✅ Real-world application projects
-- ✅ Performance optimization examples
+- ✅ Performance optimisation examples
 
 -----
 
@@ -120,7 +120,7 @@ javac -version
 # Clone this repository
 git clone https://github.com/yourusername/java-mastery-journey.git
 
-# Navigate to project
+# Navigate to the project
 cd java-mastery-journey
 
 # Start with Phase 1, Day 1
@@ -161,7 +161,7 @@ mvn compile exec:java
 - [ ] Day 12: Core Collections 🗂️
 - [ ] Day 13: Generics & Wrappers 🎁
 - [ ] Day 14: Multithreading 🧵
-- [ ] Day 15: Synchronization 🔄
+- [ ] Day 15: Synchronisation 🔄
 - [ ] Day 16: Lambda Expressions ⚡
 - [ ] Day 17: Stream API 🌊
 - [ ] Day 18: Modern APIs 🕒
@@ -203,7 +203,7 @@ mvn compile exec:java
 Feel free to:
 
 - 🐛 Report bugs or suggest improvements
-- 💡 Share alternative solutions or optimizations
+- 💡 Share alternative solutions or optimisations.
 - 📝 Contribute additional examples or explanations
 - ⭐ Star this repository if you find it helpful
 
@@ -211,7 +211,7 @@ Feel free to:
 
 ## 📄 **License**
 
-This project is licensed under the MIT License - see the <LICENSE> file for details.
+This project is licensed under the Jhulan Mahato License.
 
 -----
 
