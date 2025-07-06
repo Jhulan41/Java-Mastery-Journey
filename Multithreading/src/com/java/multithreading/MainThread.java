@@ -1,3 +1,5 @@
+package com.java.multithreading;
+
 public class MainThread {
     public static void main(String[] args) throws InterruptedException {
         for (int i = 1; i <= 5; i++) {
