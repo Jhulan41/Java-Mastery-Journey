@@ -222,6 +222,6 @@ This project is licensed under the Jhulan Mahato License.
 *Building Java expertise one day at a time*
 
 [![GitHub followers](https://img.shields.io/github/followers/Jhulan41?style=social)](https://github.com/Jhulan41)
-[![GitHub stars](https://img.shields.io/github/stars/Jhulan41/Java_Concepts_Practice?style=social)](https://github.com/Jhulan41/Java_Concepts_Practice)
+[![GitHub stars](https://img.shields.io/github/stars/Jhulan41/Java-Mastery-Journey?style=social)](https://github.com/Jhulan41/Java-Mastery-Journey)
 
 </div>
