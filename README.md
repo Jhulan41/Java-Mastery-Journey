@@ -65,32 +65,6 @@ This repository chronicles my systematic approach to mastering Java, from basic 
 ## 🗂️ **Repository Structure**
 
 ```
-java-mastery-journey/
-├── 📁 phase-1-core-java/
-│   ├── 📁 day-01-java-basics/
-│   │   ├── 📄 HelloWorld.java
-│   │   ├── 📄 JVMExploration.java
-│   │   └── 📄 notes.md
-│   ├── 📁 day-02-variables-datatypes/
-│   │   ├── 📄 DataTypeDemo.java
-│   │   ├── 📄 OperatorPrecedence.java
-│   │   └── 📄 notes.md
-│   └── ... (continuing pattern)
-├── 📁 phase-2-advanced-java/
-│   ├── 📁 day-11-collections-framework/
-│   │   ├── 📄 CollectionPerformance.java
-│   │   ├── 📄 CustomComparator.java
-│   │   └── 📄 notes.md
-│   └── ... (continuing pattern)
-├── 📁 projects/
-│   ├── 📁 mini-mvc-webapp/
-│   ├── 📁 database-crud-system/
-│   └── 📁 multithreading-examples/
-├── 📁 resources/
-│   ├── 📄 cheatsheets/
-│   ├── 📄 interview-questions/
-│   └── 📄 best-practices/
-└── 📄 README.md
 ```
 
 -----
